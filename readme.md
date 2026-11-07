@@ -1,16 +1,16 @@
-# Nama     : Ilham Zamzami
-# Kelas    : DE 15
+## Nama     : Ilham Zamzami
+## Kelas    : DE 15
 
 # Screenshot Project
 ## Screenshot Kafka producer
-![kafka procedur](/screenshoot/kafka_producer.png)
+![kafka procedur](/screenshot/kafka_producer.png)
 
 ## Screenshot Streaming
-![streaming console](screenshoot/streaming_console.png)
+![streaming console](screenshot/streaming_console.png)
 
 ## Screenshot Kafka UI (Output Streaming)
-![topic valid](screenshoot/topic_valid.png)
-![topic dql](screenshoot/topic_dlq.png)
+![topic valid](screenshot/topic_valid.png)
+![topic dql](screenshot/topic_dlq.png)
 
 -----------
 
