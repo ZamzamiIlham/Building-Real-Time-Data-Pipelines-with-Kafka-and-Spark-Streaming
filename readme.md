@@ -3,7 +3,7 @@
 
 # Screenshot Project
 ## Screenshot Kafka producer
-![kafka procedur](screenshoot/kafka_producer.png)
+![kafka procedur](/screenshoot/kafka_producer.png)
 
 ## Screenshot Streaming
 ![streaming console](screenshoot/streaming_console.png)
